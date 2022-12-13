@@ -1,2 +1,2 @@
 # Classification-Modeling
-Classification using perceptron, knn, and svm models
+Classification data modeling using perceptron, knn, and svm machine learning techniques.
