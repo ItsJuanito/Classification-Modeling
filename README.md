@@ -1,2 +1,2 @@
 # Classification-Modeling
-Using perceptron, knn, and svm models
+Classification using perceptron, knn, and svm models
